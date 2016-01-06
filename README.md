@@ -18,7 +18,9 @@ The configObject is optional and it's an object with some atributes values that 
 **separator:** a single character like '-', or '/'.
 
 >LittleEndian follows the format (day, month, year)
+
 >MiddleEndian follows the format (month, day, year)
+
 >BigEndian follows the format (year, month, day)
 
 **Avaliables methods**
